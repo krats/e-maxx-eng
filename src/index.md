@@ -20,6 +20,8 @@ and adding new articles to the collection.*
 - **Prime numbers**
     - [Sieve of Eratosthenes](./algebra/sieve-of-eratosthenes.html)
     - [Sieve of Eratosthenes With Linear Time Complexity](./algebra/prime-sieve-linear.html)
+    - [Primality tests](./algebra/primality_tests.html)
+    - [Integer factorization](./algebra/factorization.html)
 - **Number-theoretic functions**
     - [Euler's totient function](./algebra/phi-function.html)
     - [Number of divisors / sum of divisors](./algebra/divisors.html)
@@ -31,6 +33,7 @@ and adding new articles to the collection.*
     - [Discrete Root](./algebra/discrete-root.html)
     - [Primitive Root](./algebra/primitive-root.html)
     - [Discrete Log](./algebra/discrete-log.html)
+    - [Montgomery Multiplication](./algebra/montgomery_multiplication.html)
 - **Number systems**
     - [Balanced Ternary](./algebra/balanced-ternary.html)
     - [Gray code](./algebra/gray-code.html)
@@ -38,6 +41,7 @@ and adding new articles to the collection.*
     - [Enumerating submasks of a bitmask](./algebra/all-submasks.html)
     - [Arbitrary-Precision Arithmetic](./algebra/big-integer.html)
     - [Fast Fourier transform](./algebra/fft.html)
+    - [Operations on polynomials and series](./algebra/polynomial.html)
 
 ### Data Structures
 
@@ -78,7 +82,7 @@ and adding new articles to the collection.*
     - [Lyndon factorization](./string/lyndon_factorization.html)
 - **Tasks**
     - [Expression parsing](./string/expression_parsing.html)
-    - [Finding all sub-palindromes in O(N)](./string/manacher.html)
+    - [Manacher's Algorithm - Finding all sub-palindromes in O(N)](./string/manacher.html)
     - [Finding repetitions](./string/main_lorentz.html)
 
 ### Linear Algebra
@@ -152,6 +156,7 @@ and adding new articles to the collection.*
     - [Finding Bridges Online](./graph/bridge-searching-online.html)
     - [Finding Articulation Points in O(N+M)](./graph/cutpoints.html)
     - [Strongly Connected Components and Condensation Graph](./graph/strongly-connected-components.html)
+    - [Strong Orientation](./graph/strong-orientation.html)
 - **Single-source shortest paths**
     - [Dijkstra - finding shortest paths from given vertex](./graph/dijkstra.html)
     - [Dijkstra on sparse graphs](./graph/dijkstra_sparse.html)
@@ -165,6 +170,7 @@ and adding new articles to the collection.*
     - [Minimum Spanning Tree - Prim's Algorithm](./graph/mst_prim.html)
     - [Minimum Spanning Tree - Kruskal](./graph/mst_kruskal.html)
     - [Minimum Spanning Tree - Kruskal with Disjoint Set Union](./graph/mst_kruskal_with_dsu.html)
+    - [Second best Minimum Spanning Tree - Using Kruskal and Lowest Common Ancestor](./graph/second_best_mst.html)
     - [Kirchhoff Theorem](./graph/kirchhoff-theorem.html)
     - [Prüfer code](./graph/pruefer_code.html)
 - **Cycles**
